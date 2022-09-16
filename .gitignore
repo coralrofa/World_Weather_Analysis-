@@ -1,3 +1,13 @@
+#adding config1.py file.
+config1.py
+
+#adding additional files
+API_practice.ipynb
+Basic Plan.docx
+dfghjkl.docx
+random_numbers.ipynb
+__pycache__
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
